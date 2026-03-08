@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志和缓存
+*.log
+.pytest_cache/
+.coverage
+
+# 系统文件
+.DS_Store
+Thumbs.db
